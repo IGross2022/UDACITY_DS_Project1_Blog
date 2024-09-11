@@ -29,7 +29,17 @@ It was interesting to realize that the cheapest accommodations (up to $50) are a
 
 # 2. In which areas are the most accomodations located? (neighbourhood)
 
+For people who are traveling, it might be of interest to know where the most accommodations are located.
+
+This might be an indicator of the most attractive neighborhoods. On the other hand, it might be easier to find a place to stay in an area with a high number of accommodation options.
+
+It has been realized that the most accommodations are in Capitol Hill (21.3%), followed by Ballard (12.9%), Belltown (12.4%), Minor (11.6%), and Queen Anne (11.3%).
+
+The proportion of remaining neighborhoods (Fircrest, Wallingford, University District, and First Hill) is below 10% and does not provide as many options as the others.
+
 ![Picture2](distribution_of_accomodations.png)
+
+
 
 # 3. Which accomodations have the best review_scores and how do they go together with bookings?
 
