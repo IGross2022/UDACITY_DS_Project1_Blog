@@ -41,6 +41,6 @@ The proportion of remaining neighborhoods (Fircrest, Wallingford, University Dis
 
 
 
-# 3. Which accomodations have the best review_scores and how do they go together with bookings?
+# 3. Which accomodations have the best review scores and how do they go together with bookings?
 
 ![Picture3](rating_vs_bookings.png)
