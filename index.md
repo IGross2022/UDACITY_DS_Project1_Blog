@@ -24,4 +24,4 @@ The purpose of that project is to analyse thee topics:
 
 # 3. Which accomodations have the best review_scores and how do they go together with bookings?
 
-![Picture3](booking_vs_prices.png)
+![Picture3](rating_vs_bookings.png)
