@@ -16,18 +16,13 @@ The purpose of that project is to analyse thee topics:
 
 # 1. How do prices influence amount of bookings?
 
-The fist step of the project helps to understand the customer group and to find out in which appartements are customers most interested in.
-What is attracting them most: the cheaper prices or the quality of the aparments (eventhough the prices might be a bit higher)?
+The first step of the project helps to understand the customer group and to find out in which apartments customers are most interested. What attracts them the most: the cheaper prices or the quality of the apartments (even though the prices might be a bit higher)?
 
-It has been found out that the most attracting appartements cost between 50 and 200 Dollar which do not belong to the exclusive group of apparments.
-They are not on the cheapest level, but belong rather to the lower price appartments. That means that people paying for 50-200 Dollar appartments 
-are the main group of customers.
+It has been found that the most attractive apartments cost between $50 and $200 and do not belong to the exclusive group of apartments. They are not at the cheapest level but rather belong to the lower price range. This means that people paying for $50-$200 apartments are the main group of customers.
 
-Starting with 200 Dollar upwards the number of bookings decreases with each step up of price and become very rare for the most expensive ones.
+Starting at $200 and upwards, the number of bookings decreases with each price increase and becomes very rare for the most expensive ones.
 
-It was interesting to realize that the cheapest accommodations (up to 50 Dollar) are though also frequently used, however not as often as of main customer group.
-
-
+It was interesting to realize that the cheapest accommodations (up to $50) are also frequently used, though not as often as those in the main customer group.
 
 
 ![Picture1](booking_vs_prices.png)
