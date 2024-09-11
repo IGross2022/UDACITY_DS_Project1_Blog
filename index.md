@@ -16,7 +16,7 @@ The purpose of that project is to analyse thee topics:
 
 # 1. How do prices influence amount of bookings?
 
-![Picture1](URL_of_the_image)
+![Picture1](booking_vs_prices.png)
 
 # 2. In which areas are the most accomodations located? (neighbourhood)
 
