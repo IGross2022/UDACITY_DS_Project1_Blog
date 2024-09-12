@@ -43,11 +43,11 @@ The proportion of remaining neighborhoods (Fircrest, Wallingford, University Dis
 
 # 3. Which accomodations have the best review scores and how do they go together with bookings?
 
-Another question we were interested in was to find out whether the review scores of the accomodations influence number of their bookings.
+Another question we were interested in was whether the review scores of the accommodations influence the number of their bookings.
 
-And indeed, as expected, the higher ratings of accomidations are, the higher is the number of their bookings.
+And indeed, as expected, the higher the ratings of the accommodations, the higher the number of their bookings.
 
-This underlines the importance of customer satisfaction and their feedbacks.
+This underlines the importance of customer satisfaction and their feedback.
 
 
 ![Picture3](rating_vs_bookings.png)
