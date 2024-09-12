@@ -1,6 +1,6 @@
 # UDACITY_DS_Project1_Blog
 
-My educational blog which contains anayses based on results achieved in iroject1.ipyn
+My educational blog which contains anayses based on results achieved in iroject1.ipynb
 
 The project uses datasets from this location https://www.kaggle.com/datasets/airbnb/seattle/data
 
