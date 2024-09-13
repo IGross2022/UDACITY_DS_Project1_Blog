@@ -2,10 +2,11 @@
 
 My educational blog which contains anayses based on results achieved in iroject1.ipynb
 
-**Data used**
+**Acknowledgment**
 
-The project uses datasets with Airbnb activity in Seattle.
-Files are located on https://www.kaggle.com/datasets/airbnb/seattle/data
+I would like to express my gratitude to Airbnb for providing the publicly available Seattle Airbnb Open Data and to Kaggle for hosting and facilitating access to the dataset. 
+
+The dataset can be found at Seattle Airbnb Open Data on Kaggle: https://www.kaggle.com/datasets/airbnb/seattle/data
 
 **File description** 
 
