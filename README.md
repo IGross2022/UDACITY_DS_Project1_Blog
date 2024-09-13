@@ -7,11 +7,11 @@ My educational blog which contains anayses based on results achieved in iroject1
 The project uses datasets with Airbnb activity in Seattle.
 Files are located on https://www.kaggle.com/datasets/airbnb/seattle/data
 
-**File description** The following Airbnb activity is included in this Seattle dataset:
+**File description** 
 
-Listings, including full descriptions and average review score.
-Reviews, including unique id for each reviewer and detailed comments.
-Calendar, including listing id and the price and availability for that day.
+- Listings: data including full descriptions and average review score.
+- Reviews: data including unique id for each reviewer and detailed comments.
+- Calendar: data including listing id and the price and availability for that day.
 
 **Purpose of that project** is to analyse thee topics:
 
