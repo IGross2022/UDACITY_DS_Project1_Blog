@@ -1,5 +1,5 @@
 
-![Logo]({{ site.logo }})
+![Logo](buildings.jpg)
 
 The project analyzes the Airbnb activities in Seattle dataset based on following datasets:
 
