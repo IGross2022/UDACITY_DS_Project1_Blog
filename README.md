@@ -2,9 +2,12 @@
 
 My educational blog which contains anayses based on results achieved in iroject1.ipynb
 
-The project uses datasets from this location https://www.kaggle.com/datasets/airbnb/seattle/data
+**Data used**
 
-The following Airbnb activity is included in this Seattle dataset:
+The project uses datasets with Airbnb activity in Seattle.
+Files are located on https://www.kaggle.com/datasets/airbnb/seattle/data
+
+**File description** The following Airbnb activity is included in this Seattle dataset:
 
 Listings, including full descriptions and average review score.
 Reviews, including unique id for each reviewer and detailed comments.
