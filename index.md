@@ -54,7 +54,7 @@ This emphasizes the critical role of customer satisfaction and the value of thei
 
 ![Picture3](rating_vs_bookings.png)
 
-# Call to Action:
+# 4. Call to Action:
 
 Having completed the analyses above, we will emphasize how important customer satisfaction and feedback are for our business. 
 
