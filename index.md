@@ -47,7 +47,7 @@ Another question we were interested in was whether the review scores of the acco
 
 And indeed, as expected, the higher the ratings of the accommodations, the higher the number of their bookings.
 
-This underlines the importance of customer satisfaction and their feedback.
+This emphasizes the critical role of customer satisfaction and the value of their feedback in influencing future bookings and overall success.
 
 
 ![Picture3](rating_vs_bookings.png)
