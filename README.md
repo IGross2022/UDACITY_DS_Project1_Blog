@@ -24,3 +24,8 @@ Files are located on https://www.kaggle.com/datasets/airbnb/seattle/data
 **Libraries used**
 
 List of all libraries used in this project can be found in the attached file 'requirements.txt'
+
+**Findings**
+
+The findings of the project analyzes can be viewed in this blog:
+https://igross2022.github.io/UDACITY_DS_Project1_Blog/
