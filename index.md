@@ -53,3 +53,15 @@ This emphasizes the critical role of customer satisfaction and the value of thei
 
 
 ![Picture3](rating_vs_bookings.png)
+
+# Call to Action:
+
+Having completed the analyses above, we will emphasize how important customer satisfaction and feedback are for our business. 
+
+Therefore, we should:
+
+- Take a closer look at customer comments and encourage customers to leave reviews.
+- Update the descriptions of less-booked accommodations to make them more attractive to customers.
+- Check and adjust the pricing of accommodations to make them more appealing to our guests.
+
+
