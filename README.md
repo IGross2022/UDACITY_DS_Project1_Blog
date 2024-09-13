@@ -10,7 +10,7 @@ Listings, including full descriptions and average review score.
 Reviews, including unique id for each reviewer and detailed comments.
 Calendar, including listing id and the price and availability for that day.
 
-The purpose of that project is to analyse thee topics:
+**Purpose of that project** is to analyse thee topics:
 
 1. How do prices influence amount of bookings?
 
