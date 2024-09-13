@@ -19,4 +19,5 @@ Calendar, including listing id and the price and availability for that day.
 3. Which accomodations have the best review_scores and how do they go together with bookings?
 
 **Libraries used**
+
 List of all libraries used in this project can be found in the attached file 'requirements.txt'
