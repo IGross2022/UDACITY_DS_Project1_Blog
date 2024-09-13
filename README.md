@@ -17,3 +17,6 @@ The purpose of that project is to analyse thee topics:
 2. In which areas are the most accomodations located? (neighbourhood)
 
 3. Which accomodations have the best review_scores and how do they go together with bookings?
+
+**Libraries used**
+List of all libraries used in this project can be found in the attached file 'requirements.txt'
