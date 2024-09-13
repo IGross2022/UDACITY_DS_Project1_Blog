@@ -5,7 +5,7 @@ The project analyzes the Airbnb activities in Seattle dataset based on following
 - **Reviews**, including unique id for each reviewer and detailed comments
 - **Calendar**, including listing id and the price and availability for that day
 
-These data can be downloaded from located on https://www.kaggle.com/datasets/airbnb/seattle/data
+These data can be downloaded from https://www.kaggle.com/datasets/airbnb/seattle/data
 
 The purpose of that project is to analyse thee topics:
 
