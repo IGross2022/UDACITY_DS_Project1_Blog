@@ -1,4 +1,6 @@
 
+![Logo]({{ site.logo }})
+
 The project analyzes the Airbnb activities in Seattle dataset based on following datasets:
 
 - **Listings**, including full descriptions and average review score
